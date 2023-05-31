@@ -7,6 +7,7 @@ In my spare time I like to read (literally anything, from non-fiction to fantasy
 
 ~~and eat cookies, without sharing of course~~
 
+
 # 🌱Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
@@ -16,6 +17,8 @@ In my spare time I like to read (literally anything, from non-fiction to fantasy
 # 👀 Tools I Use
 
 [![My Skills](https://skillicons.dev/icons?i=codepen,vscode,github,vercel)](https://skillicons.dev)
+<!--  -->
+![Codewars](https://www.codewars.com/users/Lamiaceae/badges/micro)
 <!---
 
 #### She/Her | Frontend Developer | Curious | Reader | Cookie-eater (Like the cookie-monster!)
