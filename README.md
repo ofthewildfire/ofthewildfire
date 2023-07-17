@@ -1,55 +1,24 @@
+<h1 align="center">Hi 👋, I'm Kirsten (Kay)</h1>
+<h3 align="center">I am a Frontend Developer</h3>
 
-# 👋 Hi, I’m Kaycee! 
+<p align="left"> <a href="https://twitter.com/im_kfox" target="blank"><img src="https://img.shields.io/twitter/follow/im_kfox?logo=twitter&style=for-the-badge" alt="im_kfox" /></a> </p>
 
-Frontend developer using HTML/ CSS and JavaScript with a smidge of React.js. I also really **really** like APIs. 
+- 🔭 I’m currently working on **100Devs 30-Week SWE Bootcamp**
 
-In my spare time I like to read (literally anything, from non-fiction to fantasy fiction.) & watch mystery television shows and documentaries. 
+- 🌱 I’m currently learning **JavaScript, React, CSS Grid, CSS Flexbox, Bootstrap, TailwindCSS**
 
-~~and eat cookies, without sharing of course~~
+- ⚡ Fun fact **I have a severe sweet tooth, cookies, chocolate, except hard candy, I hate hard candy!**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/im_kfox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_kfox" height="30" width="40" /></a>
+</p>
 
-# 🌱Technologies
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ofthewildfire&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="ofthewildfire" /></p>
 
-***
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ofthewildfire&show_icons=true&theme=synthwave&locale=en" alt="ofthewildfire" /></p>
 
-# 👀 Tools I Use
-
-[![My Skills](https://skillicons.dev/icons?i=codepen,vscode,github,vercel)](https://skillicons.dev)
-<!--  -->
-![Codewars](https://www.codewars.com/users/Lamiaceae/badges/micro)
-<!---
-
-#### She/Her | Frontend Developer | Curious | Reader | Cookie-eater (Like the cookie-monster!)
-
-
-
-# 👋 Hi, I’m Kaycee! 
-
-Frontend developer using HTML/ CSS and JavaScript with a smidge of React.js. I also really **really** like APIs. 
-
-In my spare time I like to read (literally anything, from non-fiction to fantasy fiction.) & watch mystery television shows and documentaries. 
-
-~~and eat cookies, without sharing of course~~
-
-# 🌱Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
-
-***
-
-# 👀 Tools I Use
-
-[![My Skills](https://skillicons.dev/icons?i=codepen,vscode,github,vercel)](https://skillicons.dev)
-
-
-
-👋 Hi, I’m @ofthewildfire
-👀 I’m interested in all manner of things.
-🌱 I’m currently learning html/css and javascript
-
-
-ofthewildfire/ofthewildfire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ofthewildfire&theme=highcontrast" alt="ofthewildfire" /></p>
