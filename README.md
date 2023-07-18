@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ofthewildfire&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="ofthewildfire" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ofthewildfire&show_icons=true&theme=synthwave&locale=en" alt="ofthewildfire" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ofthewildfire&theme=highcontrast" alt="ofthewildfire" /></p>
