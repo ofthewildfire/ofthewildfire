@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kirsten</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<p align="center" > - 🔭 I’m currently working on **learning how to begin open source contributions to help myself learn and understand code in more real life examples.** </p>
+<p align="center" > - 🔭 I’m currently working on <strong>learning how to begin open source contributions to help myself learn and understand code in more real life examples.</strong></p>
 
-<p align="center" > - 🌱 I’m currently learning **all about backend with Node.js, Express.js and MongoDB.** </p>
+<p align="center" > - 🌱 I’m currently learning <strong>all about backend with Node.js, Express.js and MongoDB.</strong></p>
 
-<p align="center" > - 🤝 I’m looking for help with **backend fun! (learning toward MERN stack).** </p>
+<p align="center" > - 🤝 I’m looking for help with <strong>backend fun! (learning toward MERN stack).</strong></p>
 
-<p align="center" > - 💬 Ask me about **HTML, CSS, JavaScript** </p>
+<p align="center" > - 💬 Ask me about <strong>HTML, CSS, JavaScript</strong></p>
 
 
 <h3 align="center">Languages and Tools:</h3>
