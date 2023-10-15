@@ -1,4 +1,4 @@
-<a href="https://ibb.co/thgb0VS"><img src="https://i.ibb.co/hMbKG3k/banner.png" alt="banner" border="0"></a>
+<img src="https://i.ibb.co/hMbKG3k/banner.png" alt="banner" width='100%' border="0">
 <h1 align="center">Hi 👋, I'm Kirsten</h1>
 <h3 align="center">Frontend Developer</h3>
 
