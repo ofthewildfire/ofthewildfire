@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Kirsten Melissa!
 
-I'm a self-taught developer currently exploring the MERN stack and TypeScript. With a Java and Python foundation and some computer science credits, I'm on a journey to deepen my coding skills and build impactful projects.
+I'm a self-taught developer with experience in HTML, CSS, JavaScript, React, and Tailwind CSS. I've also gained some college credits in computer science, where I learned the basics of Java and Python. I'm currently focused on building projects with the MERN stack and TypeScript.
 
 ## 🌟 What I'm Up To
 - **Freelancing**: Offering web development services and working on exciting new projects.
-- **Learning**: Diving into TypeScript, React, MongoDB, and Express.
-- **Current Project**: Working on a "Let Me Help You Feel Less Alone" project.
+- **Learning**: Exploring TypeScript, MongoDB, and Express.
+- **Current Project**: Developing a "Let Me Help You Feel Less Alone" project.
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kmcochrane)  
@@ -16,7 +16,7 @@ I'm a self-taught developer currently exploring the MERN stack and TypeScript. W
 - [Hashnode Blog](https://kirsty.hashnode.dev)
 
 ## 💬 Let’s Chat
-Please feel free to reach out if you'd like to discuss HTML, CSS, JavaScript, or any tech topics. I love connecting with others and exchanging ideas!
+Feel free to reach out if you want to discuss HTML, CSS, JavaScript, React, or any tech topics. I love connecting with others and exchanging ideas!
 
 ---
 
