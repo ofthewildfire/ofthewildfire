@@ -7,10 +7,6 @@ I'm a self-taught developer with experience in HTML, CSS, JavaScript, React, and
 - **Learning**: Exploring TypeScript, MongoDB, and Express.
 - **Current Project**: Developing a "Let Me Help You Feel Less Alone" project.
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kmcochrane)  
-[![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/km_fsdev)
-
 ## 📝 Check Out My Work
 - [Frontend Mentor Projects](https://www.frontendmentor.io/profile/ofthewildfire)
 - [Hashnode Blog](https://kirsty.hashnode.dev)
