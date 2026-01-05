@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Kirsten Melissa!
 
-I'm a self-taught developer with experience in HTML, CSS, JavaScript, React, and Tailwind CSS. I've also gained some college credits in computer science, where I learned the basics of Java and Python. I'm currently focused on building projects with the MERN stack and TypeScript.
+I'm a self-taught developer with experience in HTML, CSS, JavaScript, React, and Tailwind CSS. Lately though more focused on Laravel and fundamentals. 
+I've also gained some college credits in computer science, where I learned the basics of Java and Python. I'm currently focused on building projects with the Laravel and Python (more for the pretty analaysis it can do!) 💖
 
 ## 🌟 What I'm Up To
 - **Freelancing**: Offering web development services and working on exciting new projects.
-- **Learning**: Exploring TypeScript, MongoDB, and Express.
-- **Current Project**: Developing a "Let Me Help You Feel Less Alone" project.
+- **Learning**: Exploring Laravel, Docker, Python.
+- **Current Project**: Developing a "Let Me Help You Feel Less Alone" project. (Picking this up 2026)
 
 ## 📝 Check Out My Work
 - [Frontend Mentor Projects](https://www.frontendmentor.io/profile/ofthewildfire)
