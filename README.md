@@ -10,6 +10,7 @@ I'm a self-taught developer with experience in HTML, CSS, JavaScript, React, and
 ## 📝 Check Out My Work
 - [Frontend Mentor Projects](https://www.frontendmentor.io/profile/ofthewildfire)
 - [Hashnode Blog](https://kirsty.hashnode.dev)
+- [HTML only CSS Framework](https://ofthewildfire.github.io/cozy.css/) - 5th January 2026 
 
 ## 💬 Let’s Chat
 Feel free to reach out if you want to discuss HTML, CSS, JavaScript, React, or any tech topics. I love connecting with others and exchanging ideas!
