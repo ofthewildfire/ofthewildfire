@@ -1,23 +1,66 @@
-# 👋 Hi, I'm Kirsten Melissa!
+<div align="center">
 
-I'm a community-taught developer with experience in HTML, CSS, JavaScript, React, and Tailwind CSS. Lately though more focused on Laravel and fundamentals. 
-I've also gained some college credits in computer science, where I learned the basics of Java and Python. I'm currently focused on building projects with the Laravel and Python (more for the pretty analaysis it can do!) 💖
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6E1,50:C9A0F5,100:9AD0F5&height=200&section=header&text=hi,%20I'm%20Kirsten%20✨&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=she/her%20·%20curious%20person%20·%20learning%20CS%20·%20the%20journey%20is%20long%20but%20it's%20a%20real%20one&descSize=18&descAlignY=55" width="100%"/>
 
-## 🌟 What I'm Up To
-- **Freelancing**: Offering web development services and working on exciting new projects.
-- **Learning**: Exploring Laravel, Docker, Python.
-- **Current Project**: Developing a "Let Me Help You Feel Less Alone" project. (Picking this up 2026)
+I'm a community-taught developer currently finishing my Associate's in Computer Science, while building real things in Laravel, PHP, and Python. I like to learn things, and read good and bad books 💕✨
 
-## 📝 Check Out My Work
-- [Frontend Mentor Projects](https://www.frontendmentor.io/profile/ofthewildfire)
-- [Hashnode Blog](https://kirsty.hashnode.dev)
-- [HTML only CSS Framework](https://ofthewildfire.github.io/cozy.css/) - 5th January 2026 
-
-## 💬 Let’s Chat
-Feel free to reach out if you want to discuss any tech topics. Seriously, I find them all interesting, of course currently being really into Laravel/and their entire ecosystem and learning Python again those are top tier topics.  
-I love connecting with others and exchanging ideas!
+</div>
 
 ---
 
-### Fun Fact
-I believe in the power of a good story and the importance of kindness: "Do unto others as you would have them do unto you."
+### 💜 currently
+
+- 🎓 Finishing my CS Associate's degree
+- 🐘 Deep in Laravel, Filament, and the OctoberCMS ecosystem
+- 🐍 Sharpening Python (and picking up Go) on [boot.dev](https://boot.dev)
+- 💼 Freelancing in web development
+- ✍️ Writing about the journey on [Hashnode](https://hashnode.com/@ofthewildfire)
+- 🌱 Planning a 2026 project: *"Let Me Help You Feel Less Alone"*
+
+### 🛠️✨ what I actually use now
+
+<div align="center">
+
+![PHP](https://skillicons.dev/icons?i=php)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+</div>
+
+<div align="center">
+
+*started in JS/React/Tailwind, that's where I cut my teeth, still love HTML/CSS, now most of my real work lives in Laravel, PHP, and Python*
+
+</div>
+
+### 💗 a few things I've built
+
+- [`FastCache`](https://github.com/ofthewildfire/FastCache) — a fasting tracker, built with Blade
+- [`niapays`](https://github.com/ofthewildfire/niapays) — an OctoberCMS donation plugin using Stripe Elements
+- [`Laravel-Fantasy-Tracker`](https://github.com/ofthewildfire/Laravel-Fantasy-Tracker) — Laravel + Breeze
+- [`cozy.css`](https://github.com/ofthewildfire/cozy.css) — a tiny, opinionated CSS framework for people who hate box shadows
+- [`throne-of-glass-mini-qoutes-api`](https://github.com/ofthewildfire/throne-of-glass-mini-qoutes-api) — a quotes API for the ToG fantasy series, because nerdy stuff deserves an API too
+
+### 💌 find me elsewhere
+
+[![Website](https://img.shields.io/badge/kirstyconsole.dev-C9A0F5?style=for-the-badge&logo=About.me&logoColor=white)](https://kirstyconsole.dev)
+[![Twitter](https://img.shields.io/badge/-@km__fsdev-FFB6E1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/km_fsdev)
+[![LinkedIn](https://img.shields.io/badge/-kmcochrane-9AD0F5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kmcochrane)
+
+<br/>
+
+<div align="center">
+
+*✨ "Do unto others as you would have them do unto you." ✨*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9AD0F5,50:C9A0F5,100:FFB6E1&height=100&section=footer" width="100%"/>
