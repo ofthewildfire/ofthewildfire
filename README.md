@@ -1,8 +1,7 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6E1,50:C9A0F5,100:9AD0F5&height=200&section=header&text=hi,%20I'm%20Kirsten%20✨&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=she/her%20·%20curious%20person%20·%20learning%20CS%20·%20the%20journey%20is%20long%20but%20it's%20a%20real%20one&descSize=18&descAlignY=55" width="100%"/>
 
-I'm a community-taught developer currently finishing my Associate's in Computer Science, while building real things in Laravel, PHP, and Python. I like to learn things, and read good and bad books 💕✨
+I'm a community taught developer working toward my Bachelor's in Computer Science, while building real things in Laravel, PHP, and Python. I like to learn things, and read good and bad books 💕✨
 
 </div>
 
@@ -10,12 +9,11 @@ I'm a community-taught developer currently finishing my Associate's in Computer 
 
 ### 💜 currently
 
-- 🎓 Finishing my CS Associate's degree
-- 🐘 Deep in Laravel, Filament, and the OctoberCMS ecosystem
+- 🎓 Working toward my CS Bachelor's
+- 🐘 Laravel, Filament, and the OctoberCMS ecosystem
 - 🐍 Sharpening Python (and picking up Go) on [boot.dev](https://boot.dev)
 - 💼 Freelancing in web development
 - ✍️ Writing about the journey on [Hashnode](https://hashnode.com/@ofthewildfire)
-- 🌱 Planning a 2026 project: *"Let Me Help You Feel Less Alone"*
 
 ### 🛠️✨ what I actually use now
 
@@ -37,16 +35,13 @@ I'm a community-taught developer currently finishing my Associate's in Computer 
 
 <div align="center">
 
-*started in JS/React/Tailwind, that's where I cut my teeth, still love HTML/CSS, now most of my real work lives in Laravel, PHP, and Python*
+*started with JS, React, and Tailwind. still love HTML/CSS. these days it's mostly Laravel, PHP, and Python*
 
 </div>
 
 ### 💗 a few things I've built
 
-- [`FastCache`](https://github.com/ofthewildfire/FastCache) — a fasting tracker, built with Blade
 - [`niapays`](https://github.com/ofthewildfire/niapays) — an OctoberCMS donation plugin using Stripe Elements
-- [`Laravel-Fantasy-Tracker`](https://github.com/ofthewildfire/Laravel-Fantasy-Tracker) — Laravel + Breeze
-- [`cozy.css`](https://github.com/ofthewildfire/cozy.css) — a tiny, opinionated CSS framework for people who hate box shadows
 - [`throne-of-glass-mini-qoutes-api`](https://github.com/ofthewildfire/throne-of-glass-mini-qoutes-api) — a quotes API for the ToG fantasy series, because nerdy stuff deserves an API too
 
 ### 💌 find me elsewhere
