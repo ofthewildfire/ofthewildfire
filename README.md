@@ -12,8 +12,6 @@ I'm a community taught developer working toward my Bachelor's in Computer Scienc
 - 🎓 Working toward my CS Bachelor's
 - 🐘 Laravel, Filament, and the OctoberCMS ecosystem
 - 🐍 Sharpening Python (and picking up Go) on [boot.dev](https://boot.dev)
-- 💼 Freelancing in web development
-- ✍️ Writing about the journey on [Hashnode](https://hashnode.com/@ofthewildfire)
 
 ### 🛠️✨ what I actually use now
 
